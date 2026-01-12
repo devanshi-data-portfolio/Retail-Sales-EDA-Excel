@@ -47,7 +47,7 @@ Some of the main insights from the analysis include:
 ---
 
 ## Repository Structure
-- `excel/` → Excel workbook containing the raw data, all pivots and charts  
+- `excel/` → Excel workbook containing the raw data,cleaned data, all pivots and charts  
 ---
 
 ## Notes
